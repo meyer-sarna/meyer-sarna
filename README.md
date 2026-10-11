@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, I'm Meyer Sarna 👋
 
 <!--
 **meyer-sarna/meyer-sarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Computer Science – Software Systems student at Simon Fraser University  
+📍 Burnaby, BC, Canada  
+🤖 Interested in AI/ML, Data Science, and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Computer Science student at SFU interested in building practical applications using machine learning, Python, and data-driven problem-solving.
+
+I'm particularly interested in AI/ML and data science projects that combine Python and SQL to explore datasets, uncover insights, automate workflows, and build useful solutions. I enjoy learning by building projects and experimenting with new technologies.
+
+Currently, I'm looking to grow my skills in machine learning, data analysis, model evaluation, and data engineering.
+
+## Featured Projects
+
+### 🤖 AI Gesture Recognition System
+A real-time hand gesture recognition project for Rock-Paper-Scissors using computer vision and machine learning.
+
+- **Technologies:** Python, TensorFlow, OpenCV, MediaPipe
+- Uses hand landmark data and a neural network to classify gestures.
+- Explores real-time computer vision and machine learning.
+
+🔗 [View Project on GitHub](https://github.com/SFU-CMPT310-PMA/AI-Gesture-Recognition-System)
+
+### 📊 What I'm Interested in Building Next
+
+- **Data Science:** Exploring datasets, identifying trends, and communicating insights.
+- **Python + SQL:** Querying, cleaning, and analyzing structured data.
+- **Machine Learning:** Training models, evaluating performance, and experimenting with different approaches.
+- **AI Engineering:** Understanding model performance, inference, and data pipelines.
+
+## Technical Skills
+
+- **Languages:** Python, SQL, Java, C++, R, JavaScript
+- **AI & Data:** TensorFlow, Pandas, NumPy
+- **Web Development:** React, Node.js, HTML/CSS
+- **Tools:** Git, GitHub, Docker, Jupyter Notebook
+- **Computer Science:** Data Structures & Algorithms, Object-Oriented Programming, Software Design
+
+## Connect With Me
+
+- **GitHub:** https://github.com/meyer-sarna
+- **LinkedIn:** https://www.linkedin.com/in/meyer-sarna
