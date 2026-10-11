@@ -1,8 +1,5 @@
 ## Hi, I'm Meyer Sarna 👋
 
-<!--
-**meyer-sarna/meyer-sarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 Computer Science – Software Systems student at Simon Fraser University  
 📍 Burnaby, BC, Canada  
 🤖 Interested in AI/ML, Data Science, and Software Engineering
