@@ -14,6 +14,16 @@ Currently, I'm looking to grow my skills in machine learning, data analysis, mod
 
 ## Featured Projects
 
+### 🏅 Olympics Data Analysis
+A data analysis project exploring Olympic data to identify trends, patterns, and insights across athletes, sports, and countries.
+
+- **Technologies:** SQL, Python, CSS, HTML, JavaScript
+- Wrote advanced SQL queries using joins, aggregations, and nested/division queries to process and troubleshoot data, generating analytical insights and reporting metrics.
+- Built a user interface to support data entry and validation workflows for non-technical users, improving accessibility for cross-functional stakeholders
+
+🔗 [View Project on GitHub](https://github.com/DakshArora07/OlympicsDataVault.git)
+
+
 ### 🤖 AI Gesture Recognition System
 A real-time hand gesture recognition project for Rock-Paper-Scissors using computer vision and machine learning.
 
